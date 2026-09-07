@@ -27,13 +27,9 @@
 ## 🚀 Proyectos Destacados
 
 - 🛒 **[SuMarket](https://sumarket-khaki.vercel.app/)** — Aplicación web en producción
-- ⚛️ **[React App](https://react-app-main-main.vercel.app/)** — Aplicación web en producción
+- ⚛️ **[React App](https://react-app-main-main.vercel.app/)** — Aplicación web Empresa Centorsur
 - 🎓 **[Tesis - Dashboard](https://tesis-blond-seven.vercel.app/dashboard)** — Proyecto de tesis en producción
 
-- 🔗 [miPrimerRepositorio](https://github.com/fernandoK92/miPrimerRepositorio)
-- 🔗 [Practicas2](https://github.com/fernandoK92/Practicas2)
-- 🔗 [trabajoengrupo](https://github.com/fernandoK92/trabajoengrupo)
-- 🔗 [metodologia-tarea-s6](https://github.com/fernandoK92/metodologia-tarea-s6)
 
 ---
 
