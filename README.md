@@ -36,13 +36,13 @@
 
 | Certificado | Institución | Fecha | Credencial |
 | --- | --- | --- | --- |
-| **CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas** | Cisco Networking Academy · Tecnológico Sudamericano | Ago 2026 | [Ver](https://portafolio-fernando.vercel.app/cert-ccna-srwe.pdf) |
-| **Certificado de Prácticas Profesionales** | CENTROSUR · Empresa Eléctrica Regional Centro Sur | Abr 2026 | [Ver](https://portafolio-fernando.vercel.app/centrosurcertificado.jpeg) |
-| **CCNA: Introducción a las Redes** | Cisco Networking Academy · Tecnológico Sudamericano | Feb 2026 | [Ver](https://portafolio-fernando.vercel.app/cert-ccna-itn.pdf) |
-| **Hacker Ético (Ethical Hacker)** | Cisco Networking Academy · Tecnológico Sudamericano | Feb 2026 | [Ver](https://portafolio-fernando.vercel.app/cert-ethical-hacker.pdf) |
-| **IT Essentials: PC Hardware and Software** | Cisco Networking Academy | Jul 2024 | [Ver](https://portafolio-fernando.vercel.app/cert-it-essentials.pdf) |
+| **CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas** | Cisco Networking Academy · Tecnológico Sudamericano | Ago 2026 | [Ver](https://portafolio-fernando-nine.vercel.app/cert-ccna-srwe.pdf) |
+| **Certificado de Prácticas Profesionales** | CENTROSUR · Empresa Eléctrica Regional Centro Sur | Abr 2026 | [Ver](https://portafolio-fernando-nine.vercel.app/centrosurcertificado.jpeg) |
+| **CCNA: Introducción a las Redes** | Cisco Networking Academy · Tecnológico Sudamericano | Feb 2026 | [Ver](https://portafolio-fernando-nine.vercel.app/cert-ccna-itn.pdf) |
+| **Hacker Ético (Ethical Hacker)** | Cisco Networking Academy · Tecnológico Sudamericano | Feb 2026 | [Ver](https://portafolio-fernando-nine.vercel.app/cert-ethical-hacker.pdf) |
+| **IT Essentials: PC Hardware and Software** | Cisco Networking Academy | Jul 2024 | [Ver](https://portafolio-fernando-nine.vercel.app/cert-it-essentials.pdf) |
 
-> Los certificados también están disponibles en mi portafolio web: **[portafolio-fernando.vercel.app](https://portafolio-fernando.vercel.app/)**
+> Los certificados también están disponibles en mi portafolio web: **[portafolio-fernando-nine.vercel.app](https://portafolio-fernando-nine.vercel.app/)**
 
 ---
 
