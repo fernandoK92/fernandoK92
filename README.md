@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Fernando
 
-### Desarrollador Web | Estudiante de Ingeniería en Sistemas
+### Desarrollador Web | Tecnologo en Desarrollo de Software
 
 *Aprendiendo, construyendo y mejorando cada día*
 
