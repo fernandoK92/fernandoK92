@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,nestjs,python,postgres,mysql,git,github,docker,aws,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,nestjs,python,postgres,mysql,mongodb,git,github,docker,vscode,figma" />
 </p>
 
 ---
@@ -29,7 +29,6 @@
 - 🛒 **[SuMarket](https://sumarket-khaki.vercel.app/)** — Aplicación web en producción
 - ⚛️ **[React App](https://react-app-main-main.vercel.app/)** — Aplicación web Empresa Centorsur
 - 🎓 **[Tesis - Dashboard](https://tesis-blond-seven.vercel.app/dashboard)** — Proyecto de tesis en producción para la empresa Xadis Decoraciones
-
 
 ---
 
