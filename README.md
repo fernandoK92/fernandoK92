@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fernandoK92/fernandoK92/main/assets/banner.png" 
+<img src="b6e18e3f-7e35-4add-9b1d-b855f5469723" src="https://github.com/user-attachments/assets/af13fecd-0bae-4aea-b20d-48c61d3383ec" 
      alt="Fernando Castro - Tecnólogo en Desarrollo de Software"
      width="100%">
 
