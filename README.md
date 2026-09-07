@@ -32,16 +32,17 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📜 Certificados
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandoK92&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoK92&theme=radical" height="165"/>
-</p>
+| Certificado | Institución | Fecha | Credencial |
+| --- | --- | --- | --- |
+| **CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas** | Cisco Networking Academy · Tecnológico Sudamericano | Ago 2026 | [Ver](https://portafolio-fernando.vercel.app/cert-ccna-srwe.pdf) |
+| **Certificado de Prácticas Profesionales** | CENTROSUR · Empresa Eléctrica Regional Centro Sur | Abr 2026 | [Ver](https://portafolio-fernando.vercel.app/centrosurcertificado.jpeg) |
+| **CCNA: Introducción a las Redes** | Cisco Networking Academy · Tecnológico Sudamericano | Feb 2026 | [Ver](https://portafolio-fernando.vercel.app/cert-ccna-itn.pdf) |
+| **Hacker Ético (Ethical Hacker)** | Cisco Networking Academy · Tecnológico Sudamericano | Feb 2026 | [Ver](https://portafolio-fernando.vercel.app/cert-ethical-hacker.pdf) |
+| **IT Essentials: PC Hardware and Software** | Cisco Networking Academy | Jul 2024 | [Ver](https://portafolio-fernando.vercel.app/cert-it-essentials.pdf) |
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoK92&layout=compact&theme=radical" height="165"/>
-</p>
+> Los certificados también están disponibles en mi portafolio web: **[portafolio-fernando.vercel.app](https://portafolio-fernando.vercel.app/)**
 
 ---
 
@@ -51,7 +52,7 @@
 <a href="https://www.linkedin.com/in/fernando-castro-9b07203a3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:TU_CORREO">
+<a href="mailto:fernandocastro092@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
