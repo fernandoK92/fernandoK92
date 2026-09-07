@@ -1,14 +1,9 @@
 <img width="2055" height="765" alt="b6e18e3f-7e35-4add-9b1d-b855f5469723" src="https://github.com/user-attachments/assets/e04ba213-2d19-433e-a070-9c3d0a3145c3" />
 
-<div align="center">
-
-<img src="b6e18e3f-7e35-4add-9b1d-b855f5469723" src="https://github.com/user-attachments/assets/af13fecd-0bae-4aea-b20d-48c61d3383ec" 
-     alt="Fernando Castro - Tecnólogo en Desarrollo de Software"
-     width="100%">
 
 <br>
 
-# 👋 Hola, soy Fernando
+# 👋 Hola, soy Fernando Castro 
 
 ### 💻 Tecnólogo en Desarrollo de Software
 
